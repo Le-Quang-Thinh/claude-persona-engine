@@ -2,6 +2,8 @@
 
 Behavioral guidelines that reduce common LLM overcoding mistakes. Derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
+> **Attribution:** This skill is cloned from [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills). All credit goes to the original authors. Used here in accordance with the terms of the source repository.
+
 This skill is always-on — it is loaded by other skills as a companion to keep Claude disciplined during code generation.
 
 ## What it does
